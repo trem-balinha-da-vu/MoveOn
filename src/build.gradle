@@ -1,0 +1,35 @@
+// Definindo o repositório de onde as dependências serão baixadas
+repositories {
+    mavenCentral()  // Repositório Maven Central
+    jcenter()       // JCenter, caso necessário
+}
+
+// Definindo as dependências do projeto
+dependencies {
+    // Apache POI para trabalhar com arquivos Excel
+    implementation 'org.apache.poi:poi:5.2.3'              // Apache POI para manipulação de arquivos Excel (.xls)
+    implementation 'org.apache.poi:poi-ooxml:5.2.3'         // Apache POI para arquivos Excel no formato .xlsx
+    implementation 'org.apache.poi:poi-ooxml-schemas:4.1.2'  // POI para trabalhar com os schemas de OOXML
+    implementation 'org.apache.poi:poi-scratchpad:5.2.3'     // Apache POI para formatos adicionais (como .xlsm)
+
+    // JGoodies Forms para layout de UI
+    implementation 'com.jgoodies.forms:forms:1.9.0'
+
+    // MigLayout para layout flexível
+    implementation 'com.miglayout:miglayout:5.1'
+
+    // IntelliJ IDEA GridLayout (se for necessário)
+    // Se o GridLayout não for disponível no repositório público, você pode usá-lo localmente como mencionado anteriormente.
+    implementation 'com.intellij:idea:2020.3.3'  // Exemplo de uma dependência do IntelliJ
+
+    // Caso precise de mais bibliotecas ou JARs locais, você pode incluir assim:
+    // implementation files('libs/nome-do-arquivo.jar')
+}
+
+// Se você estiver utilizando o plugin para empacotar seu aplicativo em um arquivo JAR
+apply plugin: 'java'
+
+// Configuração do Java
+sourceCompatibility = '1.8'  // Defina a versão do Java conforme necessário
+targetCompatibility = '1.8'
+

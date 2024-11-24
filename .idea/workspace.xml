@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62bcb996-688d-4b88-894c-b7b292722029" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/IntelliJ_IDEA_GridLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JGoodies_Forms.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/MigLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/TableLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppDesktopMobilidade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/TableLayout-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/TableLayout-src.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/TableLayout.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jgoodies-common-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jgoodies-common-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jgoodies-common.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jgoodies-forms-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jgoodies-forms-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jgoodies-forms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/StatusViagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Visible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Motorista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/SistemaMoveON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Viagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/telas/ConfirmaCorrida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/telas/ConfirmaCorrida.jfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/telas/Historico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/telas/Historico.jfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/telas/InicialPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/telas/InicialPage.jfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/telas/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/telas/Login.jfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/telas/NewUserPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/telas/NewUserPage.jfd" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2pESSMvKbZWKX3Y4JbfQGQl4G6z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "127",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "268",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Downloads/poi-bin-5.2.3-20220909/poi-bin-5.2.3/lib/commons-codec-1.15.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\AppDesktopMobilidade\src\telas" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AppDesktopMobilidade" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62bcb996-688d-4b88-894c-b7b292722029" name="Changes" comment="" />
+      <created>1732329745314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732329745314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
